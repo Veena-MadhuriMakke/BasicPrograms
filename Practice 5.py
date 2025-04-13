@@ -1,0 +1,1 @@
+print([{} for _ in range((int(input("Enter the Number : "))))])
